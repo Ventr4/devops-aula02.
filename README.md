@@ -1,4 +1,5 @@
 # devops-aula02.
 Selena Gomes
-Miley crucius
+Zizy
 Arnold shawsneguer
+Zeca pagodinho
